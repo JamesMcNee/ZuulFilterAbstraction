@@ -8,3 +8,9 @@ zuul:
       url: https://pastebin.com/raw/8QN6t4kP
     orange:
       url: https://pastebin.com/raw/7W7mis9e
+    purpleOne:
+      path: /purple/one
+      url: https://pastebin.com/raw/7W7mis9e
+    purpleTwo:
+      path: /purple/two
+      url: https://pastebin.com/raw/7W7mis9e
